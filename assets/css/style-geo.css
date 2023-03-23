@@ -842,8 +842,8 @@ textarea {
 
 /* gallery */
 .gallery {
-  margin-top: 6rem;
-  height: 490vh;
+  margin-top: 4.5rem;
+  height: 500vh;
   display: grid;
   grid-template-columns: repeat(9, 1fr);
   grid-template-rows: repeat(37, 5vw);
