@@ -559,6 +559,9 @@ footer {
 
 /* dealerships */
 .dealership-main {
+  height: 480vh;
+  display: flex;
+  align-items: center;
   background-size: contain;
   background-image: url(../images/back-texture/texturebg.jpg);
 }
