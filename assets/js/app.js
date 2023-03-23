@@ -1,6 +1,5 @@
 for(i = 1; i < 18; i++) {
     const modal = document.querySelector('.modal' + [i]);
-    console.log(modal);
 
     const modalOpener = document.querySelector('.modal-opener' + [i])
     
