@@ -575,8 +575,8 @@ footer {
 
 .dealerships h1 {
   font-family: var(--bodoni);
-  color: var(--small-text-silver);
-  font-size: 1.3em;
+  color: var(--gold);
+  font-size: 2rem;
   letter-spacing: 0.05em;
   text-align: center;
   margin: 16px 0 30px 0;
@@ -690,8 +690,8 @@ footer {
 .contact h1 {
   text-align: center;
   font-family: var(--bodoni);
-  color: var(--small-text-silver);
-  font-size: 1.1em;
+  color: var(--gold);
+  font-size: 1.4em;
 }
 
 .contact label {
