@@ -531,7 +531,7 @@ header {
   -ms-flex-align: center;
   align-items: center;
   width: 58%;
-  height: 620px;
+  height: 640px;
   border: 1px solid var(--gold);
   border-radius: 10px;
 }
