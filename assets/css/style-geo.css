@@ -660,6 +660,11 @@ header {
   margin: 0 15% 0 0%;
 }
 
+footer {
+  background-color: var(--divider-gray);
+  height: 40vh;
+}
+
 .footer-socials {
   display: -webkit-box;
   display: -ms-flexbox;
