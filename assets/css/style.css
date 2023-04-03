@@ -1371,6 +1371,15 @@ textarea {
 }
 
 @media (max-width: 500px) {
+    .mockup-wrapper {
+    height: 552px;
+    width: 420px;
+}
+  .mockup-div {
+    height: 550px;
+    width: 420px;
+}
+  
   footer{
     height: 210px;
   }
