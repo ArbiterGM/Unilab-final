@@ -662,7 +662,7 @@ header {
 
 footer {
   background-color: var(--divider-gray);
-  height: 40vh;
+  height: 250px;
 }
 
 .footer-socials {
