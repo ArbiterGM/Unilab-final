@@ -467,7 +467,6 @@ header {
 }
 
 .cards-wrapper-iconic {
-  height: 115vh;
   width: 100vw;
   max-width: 100%;
   display: -webkit-box;
@@ -519,6 +518,7 @@ header {
 }
 
 .home-card-iconic {
+  margin: 2rem 0;
   z-index: 2;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -3127,9 +3127,6 @@ textarea {
 }
 
 @media (max-width: 600px) {
-  .cards-wrapper-iconic {
-    height: 100vh;
-  }
   .carousel-control-prev,
   .carousel-control-next {
     z-index: 5;
