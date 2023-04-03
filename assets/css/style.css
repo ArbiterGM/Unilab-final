@@ -1387,6 +1387,10 @@ textarea {
 }
 
 @media (max-width: 500px) {
+  footer{
+    height: 210px;
+  }
+  
   .footer-socials {
     gap: 2rem;
   }
