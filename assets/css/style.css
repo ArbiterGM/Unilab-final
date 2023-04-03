@@ -1384,6 +1384,10 @@ textarea {
     height: 210px;
   }
   
+  .panorama-div{
+    width: 470px
+  }
+  
   .footer-socials {
     gap: 2rem;
   }
