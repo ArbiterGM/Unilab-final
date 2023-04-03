@@ -1370,6 +1370,12 @@ textarea {
   }
 }
 
+@media (max-width: 520px) {
+  .panorama-div{
+    width: 470px
+  }
+}
+
 @media (max-width: 500px) {
     .mockup-wrapper {
     height: 552px;
@@ -1382,10 +1388,6 @@ textarea {
   
   footer{
     height: 210px;
-  }
-  
-  .panorama-div{
-    width: 470px
   }
   
   .footer-socials {
